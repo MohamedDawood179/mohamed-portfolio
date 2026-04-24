@@ -61,7 +61,7 @@ const Hero = () => {
               >
                 View Projects <ChevronRight size={18} />
               </a>
-              <a href="/Mohamed_Dawood_CV.pdf" download style={{
+              <a href="Mohamed_Dawood_CV.pdf" download style={{
                 padding: '0.9rem 2rem', borderRadius: '1rem', fontWeight: 700, fontSize: '0.95rem',
                 display: 'flex', alignItems: 'center', gap: '0.5rem',
                 border: '1px solid rgba(255,255,255,0.12)', color: '#fff',
@@ -106,7 +106,7 @@ const Hero = () => {
               boxShadow: '0 30px 80px rgba(0,0,0,0.6)',
             }} className="photo-container">
               <img
-                src="/profile.jpg"
+                src="profile.jpg"
                 alt="Mohamed Ashraf Dawood"
                 style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center top' }}
                 onError={e => { e.target.src = 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800'; }}

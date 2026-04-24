@@ -87,7 +87,7 @@ const Achievements = () => (
             className="achievement-img"
           >
             <div style={{ borderRadius: '1.5rem', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.1)', boxShadow: '0 20px 60px rgba(0,0,0,0.5)' }}>
-              <img src="/projects/readers_club.png" alt="Readers Club" style={{ width: '100%', height: '320px', objectFit: 'cover', display: 'block' }} />
+              <img src="projects/readers_club.png" alt="Readers Club" style={{ width: '100%', height: '320px', objectFit: 'cover', display: 'block' }} />
             </div>
             <div style={{ position: 'absolute', bottom: '-20px', right: '-20px', width: '120px', height: '120px', background: 'var(--accent-color)', borderRadius: '50%', filter: 'blur(60px)', opacity: 0.25 }} />
           </motion.div>

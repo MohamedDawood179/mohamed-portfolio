@@ -9,7 +9,7 @@ const projects = [
     tag: '🏆 Live on Stores',
     description: 'A social reading platform combined with e-commerce, allowing users to discover, review, and purchase books seamlessly.',
     tech: ['Flutter', 'REST API', 'SignalR', 'BLoC', 'Firebase'],
-    image: '/projects/readers_club.png',
+    image: 'projects/readers_club.png',
     highlight: true,
     tagColor: '#007AFF',
     github: 'https://github.com/MohamedDawood179',
@@ -28,7 +28,7 @@ const projects = [
     tag: 'Graduation Project',
     description: 'AI-powered Physical Therapy app with computer vision for real-time exercise feedback and personalized recovery plans.',
     tech: ['Flutter', 'FastAPI', 'ML', 'Computer Vision'],
-    image: '/projects/phlex.png',
+    image: 'projects/phlex.png',
     tagColor: '#10B981',
     github: 'https://github.com/MohamedDawood179',
     details: [
@@ -46,7 +46,7 @@ const projects = [
     tag: 'MedTech',
     description: 'Nursing management system for hospitals to coordinate staff shifts, patient records, and real-time task tracking.',
     tech: ['Flutter', 'Clean Arch', 'REST API', 'WhatsApp'],
-    image: '/projects/tamredak.png',
+    image: 'projects/tamredak.png',
     tagColor: '#EC4899',
     github: 'https://github.com/MohamedDawood179',
     details: [
@@ -64,7 +64,7 @@ const projects = [
     tag: 'Social & Adoption',
     description: 'A full-scale platform for pet adoption, connecting users with shelters, clinics, and emergency rescue teams.',
     tech: ['Flutter', 'Firebase', 'Maps', 'Payment'],
-    image: '/projects/pettix.png',
+    image: 'projects/pettix.png',
     tagColor: '#F97316',
     github: 'https://github.com/MohamedDawood179',
     details: [
@@ -81,7 +81,7 @@ const projects = [
     tag: 'EdTech',
     description: 'E-learning application providing high-quality courses with interactive video players and progress tracking.',
     tech: ['Flutter', 'SignalR', 'BLoC', 'Clean Arch'],
-    image: '/projects/one_talent.png',
+    image: 'projects/one_talent.png',
     tagColor: '#6366f1',
     github: 'https://github.com/MohamedDawood179',
     details: [
